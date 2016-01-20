@@ -1,0 +1,20 @@
+.static {
+			background: #ED462F;
+			width: 200px;
+			height: 200px;
+			position: static;
+}
+.relative {
+			background: #752E80;
+			width: 100px;
+			height: 100px;
+			position: relative;
+			left: 50px;
+			top: 50px;
+}
+.absolute {
+			background:#FFF835;
+			width: 50px;
+			height: 50px;
+			position: absolute;
+}
